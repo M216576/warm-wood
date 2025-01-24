@@ -1,0 +1,28 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+
+# Ignore Python-specific files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore Visual Studio Code settings
+.vscode/
